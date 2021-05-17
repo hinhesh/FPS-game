@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{5F2FFC26-1EF7-C019-6DC0-2549035D0FA9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ennemy/ennemyAttack.cs">
+    <Files>
+      <File FileName="Assets/ennemy/ennemyAI.cs" Line="16" Column="9" />
+      <File FileName="Assets/ennemy/ennemyAttack.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="zombie" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="ennemy" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9058a485-c5da-4063-a42d-2ea345746131" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
